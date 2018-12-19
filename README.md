@@ -10,7 +10,7 @@ READ FILES: In this part we read the files that we will ocupate.
 
 MERGE: In this part we join the files to create one data set with the info of the training and test sets also include the name of columns and the variables to indicate activity and subject.
 
-MEAN & STANDAR DEVIATION:In this part we extract the measurements on the mean and standar deviation for each measurement, we omitted the mesurement that refering some axis because we want conserve only the general information for each measurement.
+MEAN & STANDAR DEVIATION: In this part we extract the measurements on the mean and standar deviation for each measurement, we omitted the mesurement that refering some axis because we want conserve only the general information for each measurement.
 
 ACTIVITIES NAME: In this part we name the activities in the data set.
 
