@@ -1,7 +1,7 @@
 # Project_GettingAndCleaningData
 Course project: Analysis and transformations to clean a data set
 
-In this project we clean a data set to obtain a summary (in this case averages) from somes specific variables.
+In this project we clean a data set to obtain a summary (in this case averages) from some specific variables.
 
 The script contain separators to indicate the part of analysis.
 Parts "WORKSPACE", "LIBRARY" and "DATA" are previous to the analysis and are only for a eassier work.
