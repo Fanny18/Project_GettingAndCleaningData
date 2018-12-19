@@ -18,5 +18,3 @@ For columns from 3 to 20 the column name indicate the measurement that contain.
 > Transformation to clean up the data:
 
 The script contain separators to indicate the part of analysis. Each part is explain in the README.md file.
-
-
